@@ -8,7 +8,8 @@ from transformers import Seq2SeqTrainer
 from datasets import load_dataset
 from transformers import logging
 
-logging.set_verbosity_warning()
+# logging.set_verbosity_warning()
+# logging.enable_progress_bar()
 
 def preprocess_function(examples):
     inputs = examples['input']
@@ -42,14 +43,15 @@ LEARNING_RATE = 1e-4  # Learning rate for training the model
 MODEL_CHECKPOINT = "mbart-large-50"  # Name of pretrained model from 🤗 Model Hub
 
 
-tokenizer = MBart50Tokenizer.from_pretrained("/teamspace/studios/this_studio/kreol-benchmark/pipelines/tok/",max_len=256)
+tokenizer = MBart50Tokenizer.from_pretrained("/mnt/disk/yrajcoomar/kreol-benchmark/pipelines/tok",max_len=256)
 
 dataset = load_dataset(
     "json",
-    data_files={'train':'/teamspace/studios/this_studio/kreol-benchmark/experiments/data/en-cr/en-cr_train.jsonl','test':'/teamspace/studios/this_studio/kreol-benchmark/experiments/data/en-cr/en-cr_test.jsonl',
-                'val':'/teamspace/studios/this_studio/kreol-benchmark/experiments/data/en-cr/en-cr_dev.jsonl'}
+    data_files={'train':'/mnt/disk/yrajcoomar/kreol-benchmark/experiments/data/en-cr/en-cr_train.jsonl','test':'/mnt/disk/yrajcoomar/kreol-benchmark/experiments/data/en-cr/en-cr_test.jsonl',
+                'val':'/mnt/disk/yrajcoomar/kreol-benchmark/experiments/data/en-cr/en-cr_dev.jsonl'}
 )
 dataset = dataset.map(preprocess_function, batched=True)
+
 train_dataset = dataset['train']
 test_dataset = dataset['test']
 val_dataset = dataset['val']
@@ -66,10 +68,10 @@ collator = DataCollatorForSeq2Seq(
 
 training_args = Seq2SeqTrainingArguments(
     output_dir='./checkpoint',
-    num_train_epochs=1,
+    num_train_epochs=20,
     per_gpu_train_batch_size=32,
-    per_gpu_eval_batch_size=1,
-    save_steps=2,
+    per_gpu_eval_batch_size=4,
+    save_steps=1000,
     save_total_limit=2,
     prediction_loss_only=True,
 )
