@@ -68,7 +68,7 @@ collator = DataCollatorForSeq2Seq(
 
 training_args = Seq2SeqTrainingArguments(
     output_dir='./checkpoint',
-    num_train_epochs=20,
+    num_train_epochs=100,
     per_gpu_train_batch_size=32,
     per_gpu_eval_batch_size=4,
     save_steps=1000,
