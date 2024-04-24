@@ -1,10 +1,10 @@
 from transformers import MBart50Tokenizer
 import numpy as np
 
-def preprocess_function(examples,tokenizer):
-    inputs = examples['input']
+def preprocess_function(examples,tokenizer,input_col='input',target_col='target'):
+    inputs = examples[input_col]
     # outputs = [tgt_token + ' ' + x for x in examples['target']]
-    outputs = examples['target']
+    outputs = examples[target_col]
     input_ids, attention_mask = tokenizer(inputs, max_length=128, truncation=True, padding="max_length").values()
     decoder_input_ids, decoder_attention_mask = tokenizer(text_target=outputs, max_length=128, truncation=True, padding="max_length").values()
     # input_tokenized = tokenizer(inputs, max_length=128, truncation=True, padding="max_length")

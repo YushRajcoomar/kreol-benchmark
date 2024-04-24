@@ -121,7 +121,7 @@ param_config = {
     'weight_decay':weight_decay,
     'fp16':fp16,
 }
-run_name = "MbartPT ENxFR  en <--> cr epoch100 weightdecay0.1 labelsmoothing0.1"
+run_name = "MbartPT ENxFR  en <--> cr epoch100 weightdecay0.1 labelsmoothing0.1 [good]"
 
 config = MBartConfig(vocab_size=TOKENIZER_VOCABULARY,max_position_embeddings=512,forced_eos_token_id=2,dropout=0.3)
 if pretrained:
@@ -156,7 +156,7 @@ val_dataset = preprocessed_dataset['val']
 if bidirectional:
     tokenizer.src_lang = tgt_lang
     tokenizer.tgt_lang = src_lang
-    bi_dataset = dataset.map(preprocess_function,fn_kwargs={'tokenizer':tokenizer}, batched=True)
+    bi_dataset = dataset.map(preprocess_function,fn_kwargs={'tokenizer':tokenizer,'input_col':'target','target_col':'input'}, batched=True)
     train_dataset = concatenate_datasets([train_dataset,bi_dataset['train']])
     test_dataset = concatenate_datasets([test_dataset,bi_dataset['test']])
     val_dataset = concatenate_datasets([val_dataset,bi_dataset['val']])
