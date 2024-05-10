@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+{% block language_selection %}
+    <div class="btn-group" role="group" aria-label="Language selection">
+        <a href="{{ url_for('about') }}" class="btn button-17">English</a>
+        <a href="{{ url_for('about_fr') }}" class="btn button-17">French</a>
+        <a href="{{ url_for('about_mfe') }}" class="btn button-17">Mauritian Creole</a>
+    </div>
+{% endblock %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Parol Lor Nou</title>
+</head>
+<body>
+    <header>
+        <h1>Parol Lor Nou</h1>
+    </header>
+    <section id="introduction">
+        <h2>Introdiksion</h2>
+        <p>Bienveni lor sit nou! Nou se [Votre Nom/Konpani], ek nou anvi dan [deskrir brievman ki zafer ou fe ou ofer].</p>
+    </section>
+    <section id="mission">
+        <h2>Nou Misyon</h2>
+        <p>Nou misyon se pou [deskrir ki misyon ou bann laksyon]. Nou pe swiv pou [deskrir kouma ou pou swiv pou aret sa misyon].</p>
+    </section>
+    <section id="contact">
+        <h2>Kontak</h2>
+        <p>Si ou ena kestion ou ou vle kontak nou, ou kapav kontak nou lor :</p>
+        <ul>
+            <li>Email : [Votre Email]</li>
+            <li>Telefon : [Votre Numéro Telefon]</li>
+            <li>Adres : [Votre Adres]</li>
+        </ul>
+    </section>
+</body>
+</html>
+{% endblock %}
+

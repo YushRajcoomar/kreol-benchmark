@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+
+{% block language_selection %}
+    <div class="btn-group" role="group" aria-label="Language selection">
+        <a href="{{ url_for('about') }}" class="btn button-17">English</a>
+        <a href="{{ url_for('about_fr') }}" class="btn button-17">French</a>
+        <a href="{{ url_for('about_mfe') }}" class="btn button-17">Mauritian Creole</a>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <html>
+    <head>
+        <title>About Us</title>
+    </head>
+    <body>
+        <header>
+            <h1>About Us</h1>
+        </header>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>Welcome to our website! We are [Your Name/Company], and we are passionate about [brief description of what you do or offer].</p>
+        </section>
+        <section id="mission">
+            <h2>Mission Statement</h2>
+            <p>Our mission is to [describe your mission or goals]. We strive to [describe how you aim to achieve your mission].</p>
+        </section>
+        <section id="contact">
+            <h2>Contact Information</h2>
+            <p>If you have any questions or would like to get in touch, you can reach us at:</p>
+            <ul>
+                <li>Email: [Your Email Address]</li>
+                <li>Phone: [Your Phone Number]</li>
+                <li>Address: [Your Address]</li>
+            </ul>
+        </section>
+    </body>
+    </html>
+{% endblock content %}
+

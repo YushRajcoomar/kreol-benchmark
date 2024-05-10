@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+{% block content %}
+<html>
+<head>
+    <title>About Us</title>
+</head>
+<body>
+    <header>
+        <h1>About Us</h1>
+    </header>
+    <section id="content">
+        <!-- This section will be replaced with the appropriate language version -->
+    </section>
+    <div id="language-buttons">
+        <button onclick="loadContent('english')">English</button>
+        <button onclick="loadContent('french')">French</button>
+        <button onclick="loadContent('mauritian-creole')">Mauritian Creole</button>
+    </div>
+    
+    <script>
+        function loadContent(language) {
+            fetch(`abouts/about_${language}.html`)
+                // .then(response => response.text())
+                // .then(html => {
+                //     document.getElementById('content').innerHTML = html;
+                // });
+        }
+
+        // Load English content by default
+        window.onload = function() {
+            loadContent('english');
+        };
+    </script>
+</body>
+</html>
+{% endblock content %}
