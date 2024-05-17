@@ -17,7 +17,7 @@ else:
 src_lang = 'en'
 tgt_lang = 'cr'
 
-lang_pair_directory = f'/mnt/disk/yrajcoomar/kreol-benchmark/data/lang_data/{src_lang}-{tgt_lang}/{src_lang}-{tgt_lang}_train.jsonl'
+lang_pair_directory = f'/home/yush/kreol-benchmark/data/lang_data/{src_lang}-{tgt_lang}/{src_lang}-{tgt_lang}_train.jsonl'
 
 data = pd.read_json(lang_pair_directory,lines=True)
 # Create some example translations

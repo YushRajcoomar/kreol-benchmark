@@ -24,6 +24,7 @@ LATEST_CHECKPOINTS = {
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
+torch.cuda.set_device(0)
 os.environ["WANDB_PROJECT"] = "Kreol - NMT"  # name your W&B project
 os.environ["WANDB_LOG_MODEL"] = "end"  
 
@@ -47,13 +48,13 @@ param_config = {
 
 ### Pretraining Model Parameters
 model_name = "Aya101"
-base_checkpoint = True
+base_checkpoint = False
 if base_checkpoint:
     checkpoint = LATEST_CHECKPOINTS[model_name]
     src_lang = "en"
     tgt_lang = "mfe"
 else: #custom checkpoint
-    checkpoint = "/mnt/disk/yrajcoomar/kreol-benchmark/checkpoint_tests/checkpoint-120000" #maybe best model
+    checkpoint = "/home/yush/kreol-benchmark/checkpoint-120000_best" #maybe best model
     src_lang = "en_XX"
     tgt_lang = "cr_CR"
 
@@ -73,8 +74,10 @@ else:
 
 dataset = load_dataset(
     "json",
-    data_files={'train':'/mnt/disk/yrajcoomar/kreol-benchmark/data/lang_data/en-cr/cr_en_sentences_train.json','test':'/mnt/disk/yrajcoomar/kreol-benchmark/data/lang_data/en-cr/en-cr_test.jsonl',
-                'val':'/mnt/disk/yrajcoomar/kreol-benchmark/data/lang_data/en-cr/en-cr_dev.jsonl'}
+    data_files={
+        'train':'/home/yush/kreol-benchmark/data/lang_data/en-cr/cr_en_sentences_train.json',
+        'test':'/home/yush/kreol-benchmark/data/lang_data/en-cr/en-cr_test.jsonl',
+        'val':'/home/yush/kreol-benchmark/data/lang_data/en-cr/en-cr_dev.jsonl'}
 )
 
 preprocessed_dataset = dataset.map(preprocess_function,fn_kwargs={'tokenizer':tokenizer}, batched=True)
@@ -103,8 +106,8 @@ collator = DataCollatorForSeq2Seq(
 training_args = Seq2SeqTrainingArguments(
     output_dir=f'./checkpoint/{model_name}',
     num_train_epochs=num_epochs,
-    per_device_train_batch_size =8,
-    per_device_eval_batch_size =2,
+    per_device_train_batch_size =48,
+    per_device_eval_batch_size =4,
     include_inputs_for_metrics=True,
     prediction_loss_only=False,
     do_predict = True,
