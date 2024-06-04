@@ -46,14 +46,14 @@ param_config = {
 }
 
 ### Pretraining Model Parameters
-model_name = "Aya101"
-base_checkpoint = True
+model_name = "MBart50"
+base_checkpoint = False
 if base_checkpoint:
     checkpoint = LATEST_CHECKPOINTS[model_name]
     src_lang = "en"
     tgt_lang = "mfe"
 else: #custom checkpoint
-    checkpoint = "/mnt/disk/yrajcoomar/kreol-benchmark/checkpoint_tests/checkpoint-120000" #maybe best model
+    checkpoint = "/mnt/disk/yrajcoomar/kreol-benchmark/checkpoint_tests/checkpoint-120000_best" #maybe best model
     src_lang = "en_XX"
     tgt_lang = "cr_CR"
 
@@ -110,7 +110,7 @@ training_args = Seq2SeqTrainingArguments(
     do_predict = True,
     weight_decay=weight_decay,
     evaluation_strategy='steps',
-    eval_steps=10000,
+    eval_steps=10,
     save_strategy = 'steps',
     save_steps=20000,
     load_best_model_at_end = False,
