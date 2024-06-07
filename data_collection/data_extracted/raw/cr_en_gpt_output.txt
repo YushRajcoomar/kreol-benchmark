@@ -1,0 +1,270 @@
+SUMMARY OF EXERCISES AND STUDIES ON GRAMMAR
+BETWEEN TRADITIONAL APPROACHES AND MODERN APPROACHES
+"Grammar": here is a word that often scares people.
+"In many minds, it is a complicated matter, mentally exhausting, learned in school, good for those who like to read and write, or who need to do it."
+"It is good for schoolchildren; it is good for language teachers, for intellectuals, writers, etc."
+"But it's not necessary to know it, or learn it, for everyday conversation."
+Some people also think that only languages used for writing have grammar.
+"Which languages are primarily used for speech, like most Creole languages that have been used until now, they don't have grammar."
+"A question often arises here: how can a language where everyone speaks in their own way, pronounces words in their way, writes (when the occasion arises) in personal and different graphic codes, how can that language have grammar? In fact, most people don't know exactly what 'grammar' means."
+"In reality, there is much confusion about the meaning of this word, and it is this confusion, in many cases, that is responsible for the misconceptions and misrepresentations that people have about the notion of grammar."
+This is why it is necessary to start our reflection on Mauritian Creole grammar with a questioning of the different meanings that the term 'grammar' has had until now.
+On the origins of the term 'grammar': The term 'grammar' comes from the Greek word "grammatike," which means 'the art that allows people to read and write as needed.'
+"Even though there were different systems, from the origin of writing (before our time in Loria), where people were taught how to write, it was the Greeks who first developed a consciousness of what grammar is, in the sense that we now understand it in modern times, with the classification of words into categories, description of rules for sentence construction, for verb conjugation, etc."
+"They did it for a precise reason, which was linked to the preservation of the 'purity' of the Greek language, as it was practiced in ancient times, especially in the time of Homer (whom the Greeks consider as the first poet that Europe has known)."
+The Greeks always considered this period as the golden age of the Greek language.
+"But towards the end of the Greek enlightenment, authorities considered that the level of their language was beginning to 'decline' and lose its value through the practice of the younger generations and through 'contamination' with other languages."
+It became necessary to describe and write rules that would allow younger generations to know how to speak and write correctly when using the Greek language.
+Ancient texts that were written in the classical period served as a reference for describing the language and providing rules on how to use it correctly.
+"The term 'grammar' appeared in French since the 16th century, where it began to take on different meanings, depending on the period, the system of thought, or the linguistic theory that people chose to adopt."
+"From that moment on, the meaning of 'grammar' was no longer limited to reading and writing but also concerned speaking."
+"For Arnauld and Lancelot, authors of La Grammaire de Port Royale ( ), grammar became synonymous with 'the art of speaking.'"
+"In , the Académie's Dictionary defined grammar as 'the Art of speaking and writing correctly.'"
+This definition was adopted by many dictionaries from that period onwards.
+"The Littré Dictionary, for example, tells us that grammar is 'the art of expressing one's thoughts by speech or writing in a manner conforming to the rules established by good usage,' while Le Grand Robert tells us that this word means '[the] set of rules to follow to speak and write correctly in a language.'"
+"In general, it is this approach that has been transmitted from one generation to another in schools, and it is also this approach that is based on what is called 'traditional grammar' in Creole."
+Traditional Grammar: When talking about traditional grammar, in general, reference is made to a type of grammar that has three main characteristics.
+"(i) It is normative grammar: By 'normative,' we mean that traditional grammar makes a distinction between correct ways of writing and speaking a language, and incorrect ways."
+"It imposes rules without taking into account the evolution of language, the diversity of practices, and the variations in its use in real life."
+"Schools are the privileged places where normative grammar is taught, supported by books and reference texts."
+"(ii) It gives more importance to writing than to speaking: Traditional grammar gives precedence to writing, not speaking, as the basis for describing the rules of a language."
+"Even though it also aims to say that the best way to speak, writing becomes its primary reference source."
+"Oral language, on the other hand, is considered a familiar expression domain where there is a lot of variation and improvisation; therefore, writing requires fixed regulations recognized by a community or by authorities (academic, scientific, or political)."
+"For this reason, in most cases, traditional grammar takes examples from texts of great writers."
+"(iii) It gives more importance to morphology than to syntax (explained further): Traditional grammar is inspired by the heritage that has been gained since ancient Greek and Latin times, where more importance is given to morphology (study of the form and formation of words) rather than syntax (study of the position, order, and function of words in sentences)."
+"The importance of morphology for Greek and Latin grammar is linked to the structure of these two languages."
+"They are both synthetic languages, while modern languages are more analytical, where syntax plays a more important role than morphology."
+"Morphology: By morphology, we understand: the study of the form and formation of words, that is, the distinction between nouns, verbs, adjectives, adverbs, etc."
+": how they change form (masculine/feminine, singular/plural), how they are formed (construction of new words from prefixes, suffixes, compounds, etc."
+"Syntax: By syntax, we understand: the study of the function and arrangement of words in a sentence."
+
+Modern Grammar. In modern grammar, we must start by clarifying that the expression "modern grammar" does not refer to a single grammar but to several.
+We call them "modern" because they have appeared after traditional grammar and have been defined mostly in comparison with traditional grammar.
+"Among the grammars that fall into the category of modern grammar, we have: (i) Structural grammars. We also call them 'structural grammar,' all grammars inspired by structural linguistics."
+"In this category, we find mainly two major trends: ( ) distributional grammar (Bloomfield, Harris, Hockett); ( ) generative and transformational grammar (Chomsky), which is an extension of distributional grammar."
+"There are also other terms used to designate these grammars: formal grammar; syntagmatic grammar; syntactic grammar, etc."
+"A common point among all these grammars is that they study grammar based on the form and structure of sentences produced in the language they are describing, and they analyze words based on the roles and positions they have in those sentences (get more details, sapit)."
+"(ii) Spoken grammars. Spoken grammars are mainly interested in communication: they highlight the acts that individuals (seek) perform when they address others: greetings, thanks, seeking information, giving information, requesting, commanding, intimidating, etc."
+"For each of these acts, there are syntactic or stylistic categories that correspond to them, and which the speakers of a language must know and master in order to communicate."
+Spoken grammars are interested in identifying and analyzing these categories.
+"Among the grammars that fall into the family of spoken grammar, we find: enunciation grammar, discourse grammar, language act grammar."
+"(iii) Text grammar. Text grammar is an extension of both structural grammar (which is interested in the study of sentences) and spoken grammar (which is interested in the study of utterances in communication situations where they are produced)."
+It highlights the criteria and structures that determine the coherence of a text.
+The term used in enunciation linguistics to refer to an oral or written message that has been produced in a communication situation.
+"Modern grammar compared to traditional grammar To go into detail about the first grammars that have distanced themselves from traditional grammar, let's look at the characteristics that differentiate them."
+"Characteristic of structural grammar: (i) They are more descriptive than normative. While traditional grammar is normative (see more below), modern grammars, inspired by the objective and scientific approaches that modern linguistics has put forward, have adopted an approach that is more aligned with describing the real practices of language users to describe its grammar rather than the practices imposed by theorists."
+They do not consider that there are practices that are superior to others.
+They only note that there are different language practices in society and describe these different practices in relation to the situations and contexts in which they are used.
+For this reason, oral language often takes on more importance than written language in modern grammars.
+"(ii) They give more importance to speech than writing. Since in any natural language, the volume of language production is infinitely higher at the oral level than at the written level (except for languages that are already dead, but which are still being studied for various reasons), modern grammar bases its analysis much more on oral practices than on written practices."
+"This characteristic is even more true in the case of creole languages, which are modern languages and which have functioned mainly as oral languages until now."
+Moreover, their analysis takes into consideration the contexts of use.
+"(iii) They give more importance to syntax than morphology (especially in structural and spoken grammar). While traditional grammar, which was inspired mainly by the study of classical languages such as Greek and Latin, has always accorded more importance to morphology than syntax, modern approaches, which have studied mainly modern languages, tend to consider that syntax plays a greater role in understanding the grammar of a language than morphology does."
+They consider that it is the sentences that people use (rather than the form and nature of the words themselves) that give the words their function and therefore their importance.
+For example, a word that is an adjective in its morphology can easily be used as a noun or an adverb in a sentence.
+If we take the word "dur" in French, for example, it is an adjective at the grammatical level (ex: un travail dur; une fille dure).
+But in the examples "C'est un dur" or "Elle travaille dur," "dur" is used as a noun and an adverb respectively.
+Morphology does not allow for this dimension, whereas syntax does.
+In the case of creole languages, where the degree of elasticity is even stronger, words change categories in a more liberal way than in French and other languages with stricter rules.
+For this reason, a syntactic approach is often more efficient in identifying the grammatical categories of words rather than morphology.
+However, in creole languages, and specifically in Mauritian Creole, morphology has a great importance when we study the formation and creation of words, which syntax, in its place, does not allow.
+After all that we have found, we think that there are several ways to define grammar, depending on the context we are in, and on the aspect we want to emphasize.
+Summary of the definition of grammar:
+"In a quick operational approach, it is possible to define grammar as: The scientific study of the structures of a language."
+But there are also other definitions worth remembering in the exercises we are doing here:
+"A grammar refers to the set of rules that allow the combination of linguistic units present in a language, and that allow you to make sentences that people use when they express themselves through sentences."
+"All languages have a grammar, otherwise people wouldn't be able to use them to talk."
+"Grammar also means a description, a way to identify the structures of a language according to a specific theory and propose a way to analyze these structures and their functioning according to that theory."
+"There is a traditional way to analyze the grammar of a language, there is a structural method, which is more modern."
+But there are also other approaches such as spoken grammar (including enunciation grammar), text grammar, etc.
+
+The modern grammarians tend to study languages in a more descriptive and objective manner, whereas traditional grammar tends to be more prescriptive and normative.
+"In the context of schools, where students can learn grammar for one language or multiple languages at the same time, normative and prescriptive approaches tend to prevail."
+"The notion of incorrect grammar is used in this case, either because an analysis of a sentence has been poorly done, or because the sentence has been written (or spoken) in a way that is not in accordance with the rules of those languages."
+"In school settings, we often retain a grammar in the form of a manual where rules (descriptive or prescriptive) of a language are written and described, with exercises for students to practice."
+"STUDIES ON THE STRUCTURE OF MAURITIAN CREOLE Linguistic studies on Mauritian Creole have been carried out from various linguistic perspectives: phonetic, lexical, syntactic, sociolinguistic, etc."
+"They represent a very strong percentage compared to the total number of studies done on Mauritian languages: more than % in (Policy), while studies on multilingual situations and on French, which are in second position, represent each % (still according to the same studies at the same time)."
+"Analyses on the structure of Mauritian Creole date back to , the publication date of the Étude sur le patois créole de Maurice by Baissac."
+"Of course, it adopts a traditional approach in line with the colonial ideology of that time: it does not consider Creole as a language and what motivated its study was to offer a common amusement rather than an international scientific one."
+"However, Baissac's publication remains a reference due to the interest it represents for the analysis of the structure of Mauritian Creole as it was and is."
+"A diachronic repertoire shows that studies on Mauritian Creole as a language in its own right have been developed alongside modern linguistic developments that began with the publication of Course in General Linguistics."
+"This publication was made by two students from his courses whose professor has since passed away: Ferdinand de Saussure."
+"Through his work, Saussure has given decisive sanctions in the perspective of analyzing and defining a language."
+"In effect, through his work, Saussure valorized a synchronic perspective whereas, before him, philologists (people who study a language from ancient texts) were giving priority in their analysis to the evolution and genealogy of a language."
+"The perspective that Saussure adopted allowed him, mainly, to highlight the multiplicity of variations that can exist in the practice of a language within a community, these variations relying on a limited number of linguistic signs."
+"These signs are part of a network of relations that organize themselves into a structure, a system."
+"It is therefore as if Saussure defined a language as a sign system and that he gave birth, through his work, to structural linguistics."
+"Linguists around the world have begun to show an interest in Creole languages, mainly because of certain common points that these languages present at the structural level and the exceptional locations that are unique to the study of their origins: their locations and the times they emerged, who was present."
+"They found that the common points at the structural level of Creole languages are explained by the common points between the contexts where they emerged: Creole languages generally emerged on islands (except in cases like Louisiana, Guinea-Bissau, and Guyana), in societies where there were plantation economies (sugar cane, coffee, or cotton)."
+"While the first questions to ask about the nature of Creole languages (is there a single Creole? are they languages, pidgins, dialects, or patois?) have been answered, three main theories will emerge after this first clarification."
+"It is important to note that, among these three main theories, two are mainly based on examples of Creole languages in the Indian Ocean (Réunion, Mauritian, and Seychellois): a) A first theory turns towards the influence of European languages on the construction of Creoles (linguists call it "eurocentrist")."
+"Chaudenson represents this trend best."
+"For him, Creoles were formed through a 'approximation of an approximation' of French (his own term: 'une approximation d'une approximation')."
+"There are two stages in his theory that explain this: first, what he calls a 'society of habitation' where slaves and their masters were living together in the same residence, and second, a 'plantation society' where slaves would come in large numbers, and they would live in the plantations where they would not have direct contact with their masters."
+It is interesting to note that Chaudenson developed his theory based on his analyses of Reunion and Mauritian Creoles primarily.
+b) A second theory turns towards the influences that the languages of the slaves (mainly African) have had on the construction of Creoles (linguists call this theory "afrocentrist")."
+"Here we can present Manessy and Baker who think that Creoles were formed from African languages or because of demographic reasons mainly concerning the works of Hall, Hymes, Ferguson & DeBose, Valdman, Chaudenson."
+Baker also developed his theory based on the example of Mauritian Creole.
+The second theory, influenced mainly by the work of Chomsky, suggests that anyone has in their head everything they need to communicate when they are born."
+"We know this theory by the name 'universal grammar' and Bickerton to incorporate this idea into his bio-program theory to explain the development of Creole languages (linguists call this theory "innate")."
+Bickerton developed his theory based on the example of the language of the Awá people.
+We must recognize that the evolution of European linguistic theories has influenced the evolution of perspectives on the analysis of languages at an international level.
+"The recognition of Creoles as full-fledged languages is primarily the result of studies that linguists have conducted from a structural perspective."
+"But this recognition is limited to specialists and has often encountered, and still encounters, a lot of resistance from non-specialists."
+"The first studies that recognized Mauritian Creole as a language According to the bibliographical commentaries of Oceanic Linguistics Special Publications (, -), the first publications on the structure of Mauritian Creole from a modern linguistic perspective date back to with articles like Urruty's for a wider audience, which appeared in Revue Guadeloupéenne (Dec."
+"According to the same bibliographical commentaries, we must wait to get the first more specialized studies on the structure of Mauritian Creole like the dissertation 'M."
+' filed by Kiamtia, A Study of the Creole Patois of Mauritius, Liniversite Wales en."
+"In his study, Kiamtia demonstrates that Mauritian Creole is a different language from French."
+"The other publications mentioned are brief descriptions that the British have made for foreigners who come to visit or work in Mauritius."
+Richardson's article published in the Journal of African Languages analyzes and compares the characteristics of Mauritian Creole with French, Malagasy, and Bantu languages."
+"Alexander's publication, A Creole Manual, is rather a small pedagogical book intended for tourists and foreign workers coming to Mauritius."
+"In his work here, he explains what motivated him and what his letter emphasizes in its introduction: 'I was told more than once while living in Mauritius that ‘Creole
+
+
+
+
+
+
+
+
+
+"Language, we can observe a particular interest in linguistic analysis of the functioning and structure of Mauritian Creole."
+"Translation: 'More than once, someone told me when I was in Mauritius, that 'Creole has no grammar.'"
+"For any linguist, it is evident that this is an exaggeration, but I offer this book as a precaution, aimed at anyone who has any doubts."
+"The first theses on Mauritian Creole emerged in the early years."
+"The Oceanic Linguistics Special Publications bibliography highlights a first thesis on creole variation and Bhojpuri presented by Domingue at the University of Texas."
+"It is noteworthy that the first theses specifically treating Mauritian Creole are on the structure of Mauritian Creole."
+"What Pudaruth supported at the University of Montpellier represents a first doctoral level study on the sounds and phonological system of Mauritian Creole."
+His work also includes a lexical presentation in its appendix.
+"Theses that focus on the syntactic structure of Mauritian Creole, like Moorghen's thesis deposited at the University of Nice."
+"As its title indicates, 'Structural Study of the Creole in Mauritius,' it adopts a structural approach, but according to Chomsky's generative and transformational grammar theory."
+"In the years, Syea's doctoral work on the syntax of Mauritian Creole stands out as an exception: 'Aspects of empty categories in Mauritian Creole,' at the University of Essex."
+"Moreover, in the years and in the years, the theses defended mainly focus on the use of languages in Mauritius."
+"Hookoomsing's thesis, deposited at Laval University, Quebec, which focuses on Mauritian Creole in contact with other languages found in its environment, also presents an interest in interference in the structure of this language."
+"In his thesis, deposited at INALCO, Paris, Police uses a syntactic approach to analyze the representation of this situation in speech in Creole by its speakers."
+However, this period is marked mainly by the first theses on language development where children speak Mauritian Creole.
+This thesis is presented by Adone at the University of Düsseldorf in Germany.
+"In , Caid, who defended his thesis at the University of Aix-en-Provence under the direction of Chaudenson, made a comparative study of the verbal system of Mauritian Creole and Reunion Creole."
+His thesis is to be published the same year.
+"The number of theses on syntax and functioning of Mauritian Creole shows the interest this domain is garnering today."
+National Institute of Oriental Languages and Civilizations
+the Mauritian Creole syntagm in connection with the use of computer means before a linguist panel from the University of Mauritius and the University of Paris VII.
+"The same year, Fon Sing defends a thesis that compares verb markers in Mauritian Creole and Haitian Creole at the University of Paris III Sorbonne Nouvelle."
+Guillemin will present his thesis at the University of Queensland in Australia on the nominal syntagm in Mauritian Creole the same year, while Florigny will present his thesis on the acquisition of French and Creole by Mauritian children and the way they construct a story at the University of Paris West Nanterre La Défense.
+Books Books specifically published on Mauritian Creole on the description of the structure of Mauritian Creole are quite limited.
+Baker's book () is certainly a reference in this regard because it is the first consistent description published by a linguist.
+"It will also publish its course in seven units, accompanied by a cassette between - : A course on Mauritian Creole."
+"For those interested in publications on creole languages in general, Valdman's publications () are a reference."
+The years are marked by the publication of the first dictionaries.
+"Other types of books are books for a Mauritian or foreign public."
+"Among others, we can mention Goswamy-Seetohul, (); David and Seenyen who published in presenting the use of Mauritian Creole in different contexts, and which has been re-edited several times since, as it is intended for both francophone and anglophone tourists."
+"In , Ado ne will publish a modified version of his thesis in the John Benjamins edition specializing in works concerning creole languages: The Acquisition of Mauritian Creole."
+He also publishes in collaboration with Plag and Ingo, a collective work: Creolization and Language Change."
+"The same year, a second collective work published by Véronique will be published on the phenomenon of creolization and language acquisition, a year publication of Alleyne's book: Historical Creole Syntax."
+"We find interest in training in creole languages in relation to acquisition phenomena in the publication DeGraf () where Adone is Among them, the LPT dictionary (), Baker's trilingual dictionary, Hookoomsing ()"
+collaboration with Vainikka makes a contribution to: “Acquisition of wh-questions in Mauritian Creole”
+"Outside the published version of Caid's thesis in , we can also mention a collective work edited by Plag on the phonology and morphology of creole languages as well as a new publication by Adone: Recent Developments in Creole Studies."
+"Carpooran, which will bring a major international development in the lexicological field, will be published in in the Assimil edition, a method for learning Mauritian Creole."
+The following year, in , Frew will also launch his learning method: Mauritian Creole in Seven Lessons."
+"On the other hand, Baker and Fon Sing release their book in , where a dozen linguists explain the evolution of structures in Mauritian Creole and their functioning today from old texts in Creole."
+"In a broader perspective, two other books are to be published in the same year where they make a comparative approach on the syntax of creole languages: Gadelii and Zribi-Holm and Patrick."
+"Among the last linguists to present a syntactic analysis of Mauritian Creole, Virahsawmy in his book Bilingualism in Mauritian and English, published in , stands out by giving his publication a bilingual gateway by translating into English descriptive terms and examples he uses."
+He gives his publication a bilingual gateway by translating into English descriptive terms and examples he uses."
+Scientific Articles It is foreign linguists who have begun to publish scientific articles on the structure and functioning of Mauritian Creole in recent years.
+"The article Corne () is the first article to treat verb forms in a specific way: 'Tense and aspects in Mauritian Creole' which appears in the Te Reo journal, number ."
+"In , Bollée wrote an article where he discusses methodological questions concerning the description of creoles."
+"If research on the structure and functioning of Mauritian Creole has been more significant in recent years with various theses, articles published in different scientific journals show the interest of Mauritian linguists for this area which was already present in the late s (Sofi, ) and especially in the years."
+"The article Soupe () in Culture et Pédagogie n° proposes an approach He publishes the first bilingual Mauritian Creole dictionary in the world."
+"Carpooran, A"
+"( ), The Mauritian Creole Pocket Dictionary, Paris, Assimil"
+compares Mauritian Creole/French
+"In the same vein, two articles by Véronique were published in the CLAIX review: one article on the functioning of two specific terms such as the verbs 'gagn' and 'fer'; a second one on the category of adjectives."
+"We also found a third article by Véronique in the Morphosyntaxe en langues romanes review, focusing on the characteristics called 'stative' verbs in Mauritian Creole."
+"During this period, Corne's interest lies in the syntax of this language: he publishes, always in the Te Reo review, an article on possessive forms, and another on reflexive forms."
+"From the following years, publications become more frequent."
+The first articles in this period focus on verbal forms in the domain of syntax with Seuren or in language acquisition by Adone."
+"The year is characterized by the quantity of articles published, particularly in a special issue of the Etudes Créoles review directed by de Robillard and Véronique."
+This issue exclusively contains articles on Mauritian Creole.
+"Among these articles, several present works on the structure of this language."
+"De Robillard presents an article on prepositional phrases in Morisien; Hazaël-Massieux, Véronique, and Touchard discuss time markers ('pou' and 'va'); Kriegel compares verbal structures containing 'gagn' in Mauritian Creole and Seychellois Creole; Stein reflects on the existence of 'serial verb constructions' in Mauritian Creole, and finally, Véronique discusses how a part of a sentence can disappear (a determinant, a phrase, a verb marker, etc)."
+Robillard publishes a second article in the Notre librairie review on the specificities of Mauritian Creole.
+"In , Caid will publish an article on adjectives in Mauritian Creole and Reunion Creole according to a comparative approach."
+"We have to wait to find articles denoting an interest in syntax: in her article, de Robillard will discuss the various roles of 'la' in its semantic aspect, a stative verb refers to a state and not an action."
+E.g., verbs like 'reste' (to stay), 'dormi' (to sleep), or 'alonze' (to lie down) can be used in Mauritian Creole; in the same year, Mufwene publishes a comparative study on reflexive forms in Mauritian Creole and Haitian Creole."
+"Following the publications she directs for the Langages review on 'Syntax of Creole Languages', Véronique will address variations affecting a verb in Mauritian Creole and the terms used to signal these variations (time, aspect, and mood)."
+"Two years later, Véronique will publish another article comparing the development of negation in Creole with the acquisition of negation in French as a foreign language."
+"In the same year, Adone will revisit an article discussing what happens when a person learns a second language and how Creole languages have developed."
+"During this year, Florigny will publish an article on the description of space in Mauritian Creole from a functional perspective."
+"In a book she edited this year, Kriegel will revisit an article on the various functions that 'kapav' can have in the syntactic structures of Mauritian Creole."
+"In , Bollée will write an article on the development of demonstratives in the Indian Ocean creoles."
+"In , or two years later, Henri, Kriegel, and Ludwig will present an article on the influences Bhojpuri can have on the syntactic structures of Mauritian Creole."
+Guillemin will publish several articles this year on Mauritian Creole.
+"From a diachronic perspective, he will study the evolution of 'so' in Mauritian Creole in one article, while another will present his research on determiners and the determination system."
+This year, he will revisit a third article on definite and specific determiners in Mauritian Creole.
+In the same diachronic perspective, Syea will publish an article on the evolution of nominal phrases in Mauritian Creole in the same year.
+"In the meantime, Henri will publish an article on how a Mauritian Creole grammar can be implemented when using information technology."
+He will also publish, in the same year, another work with Abeillé on the syntax of constructions containing a 'copula' (verb 'ete') in Mauritian Creole."
+"In , Henri and Abeillé will present another work at Stanford University on long and short verbal forms in Mauritian Creole and how they function."
+"In the same year, Alleesaib will present a study on pronouns in Mauritian Creole at Essex University."
+"Still in , he and Henri will present another work on 'Relativiser Drop in Subject Relativisation' at Oxford University."
+"Alleesaib will publish an article on 'bann' in Mauritian Creole this year, based on reflections from his DEA thesis from a structural perspective."
+"This year, Guillemin will revisit another article on determiners in Mauritian Creole."
+MORPHOLOGICAL APPROACH In general, when we talk about morphology, the first thing that interests us is the words in a language."
+But there are two ways to study the words of a language at the morphological level.
+The first way is to study how words change form within the language, based on different criteria and contexts.
+We call this: inflectional morphology.
+There is a second way, where we are interested in how words (have been) created in the language using different processes.
+We call this: derivational morphology.
+But there are also other processes for creating words in a language.
+Among them: transcategoryzation, composition, reduplication, borrowing, and neologism.
+Inflectional Morphology In the first case, we are interested in how words can change form within the same grammatical category, depending on certain grammatical criteria, such as number (plural and singular), gender (masculine, feminine), person (1st, 2nd, 3rd), etc.
+Let's take, for example, a language like French.
+Depending on whether an adjective is singular or plural, masculine or feminine, it will not be written the same way.
+'Long', for example, which is masculine singular in French ('un long baton'), becomes 'longue' when it is feminine singular ('une longue robe'), 'longs' when it is masculine plural ('de longs batons'), and 'longues' when it is feminine plural ('de longues robes')."
+We say that it is a variable word.
+In a language like Mauritian Creole, however, the adjective 'long' does not change form in any grammatical context.
+We say that the word is invariable.
+When we are interested in this type of study, we are doing 'inflectional morphology'.
+In Mauritian Creole, as in many other Creole languages, inflectional morphology does not play a major role because word forms do not vary based on grammatical criteria, in general, it does not exist, except in certain cases.
+"For certain nouns that designate professions, for example: 'director' / 'directress', 'health worker' / 'health workeress', 'cook' / 'cook'..."
+"Arnaud); there are also certain nouns that can be used as adjectives like 'crazy' / 'crazies', 'to steal' / 'thieves', 'to lie' / 'liars'"
+For example: (i) There is no masculine-feminine distinction (grammatical gender) for the words
+"In Mauritian Creole, it behaves exactly like English; however, it is different from French"
+"While in French, my 'chair' is feminine ('une/la chaise') and 'armchair' is masculine ('un fauteuil'), in English, 'chair' ('a/the chair') and 'armchair' ('an/the armchair') are neither masculine nor feminine, just like 'a seat' ('a seat') and 'a stove' ('a stove') in Creole"
+(ii) Number distinction also does not exist in the grammatical forms of words
+"Singular and plural are written the same: 'one child', 'two children', 'a few children'"
+There is no 's' at the end of words
+There is only one word that needs to be added sometimes to indicate the plural
+"This word is 'bann': 'some children, one group of children, those children there'"
+(iii) Time distinction in verbs also does not have different forms
+"'To go', 'to come', 'to walk' are written the same, whether in present tense ('I am going/coming/walking'), past tense ('I went/came/walked'), or future tense ('I will go/come/walk')"
+"The only alternation that verbs have in Mauritian Creole is in their forms. There is a long (or full) form that is used when the verb is autonomous"
+"Where, in general, it does not have a complement: 'I am going, you are coming, he/she is walking'"
+"There is a short form (or medial) that is used when the verb carries a complement: 'I am going home, you came to school, he was walking in the garden'"
+"For example: to check, to stand, to crouch, rubber band, to look, etc."
+"Frew; Carpooran, (sappi introduction to the Mauritian Dictionary)"
+"Derivational morphology Derivational morphology, in which it is interested in the way words in a language are formed, either from existing words or from other processes"
+Derivation with prefixes A word can be derived into another word just because we added a prefix to it
+Derivation with suffixes We will focus mainly on suffixes that (have) allowed us to create new words in Mauritian Creole, meaning that we are not considering words that have directly come from another language and their suffixes"
+"But the principle is applied to all cases where a word in one Creole is separated from another Creole word only by the presence or absence of a suffix"
+"For example, 'faner' (meaning 'person who acts badly or in a mischievous way') is formed from the Creole verb 'fane' (meaning 'to act badly or in a mischievous way') and the suffix '-er'"
+ENUNCIATION LINGUISTICS
+Its origin and its principle of analysis Linguistic enunciation approaches the analysis of linguistic forms and structures according to the subjective perspective of the individual who uses them in a communicative situation
+"In this context, we are presenting linguistic forms that reflect how a speaker takes responsibility for what he is saying; that is, how he defines himself and the people he is talking to in his speech, how he situates what he is saying in relation to the moment and place where he is speaking"
+"Linguistic enunciation has developed from the work of a French linguist, Émile Benveniste, in his publication 'Problems of General Linguistics' (Volume , ; Volume , )"
+"In it, he groups a series of texts that criticize the development that the theory of Ferdinand de Saussure had with certain American linguists"
+"Émile Benveniste, a disciple of Ferdinand de Saussure"
+"In his published texts, he wanted to react against the excessive development that certain American linguists gave to structuralism: they gave too much importance in their analysis to the combination of linguistic forms without considering the semantic dimension and the immediate origin that define a language"
+"In reaction to this, Émile Benveniste proposed an analysis perspective that puts the subject at the center of linguistic preoccupation"
+"He also chose to analyze a language as it is practiced in reality: as a complementary aspect to Saussure's approach, where he shows that a language is a virtual system that exists only in terms of linguistic competence when it is not being used"
+Benveniste was so relevant in his rectification approach that his publications gave rise to the 'theory of enunciation,' which forms the basis of what we call today 'linguistic enunciation'
+"Benveniste highlighted the fact that when a person speaks in reality, he uses linguistic forms and structures that he knows and reorganizes them according to his subjective perspective to produce speech that makes sense on a written or oral level"
+Linguists consider Benveniste's work more as a linguistic anthropological approach than as a linguistic theory
+More specifically, linguists like Maingueneau, Culioli, and Kerbrat-Orecchioni, to generalize his approach and highlight the need to make a distinction between, on the one hand, the use of linguistic forms and structures in relation to enunciation situations and, on the other hand, other types of uses"
+The French linguist Antoine Culioli ( ) and his team are very explicit about the 'references' they use to define the different types of relationships that a speaker establishes between what he designates and his communicative situation
+They worked on language activities as revealed by the forms used in a sentence
+"In fact, when a speaker uses linguistic forms in relation to his communicative situation, he is literally providing references on how he situates himself and his interlocutor, as well as situating what he is saying in relation to that situation"
+There are three types of references that a speaker can make:
+
+
+
