@@ -1,4 +1,4 @@
-name: cuda11
+name: kreol
 channels:
   - pytorch
   - huggingface
@@ -245,4 +245,4 @@ dependencies:
     - werkzeug==3.0.3
     - widgetsnbextension==4.0.10
     - wtforms==3.1.2
-prefix: /home/ubuntu/miniconda3/envs/cuda11
+prefix: /home/yush/.conda/envs/kreol
