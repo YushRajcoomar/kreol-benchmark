@@ -165,17 +165,10 @@ training_args = Seq2SeqTrainingArguments(
     prediction_loss_only=False,
     do_predict = True,
     weight_decay=weight_decay,
-<<<<<<< HEAD
-    evaluation_strategy='epoch',
-    # eval_steps=8,
-    save_strategy = 'epoch',
-    # save_steps=8,
-=======
     evaluation_strategy='steps',
     eval_steps=10,
     save_strategy = 'steps',
     save_steps=20000,
->>>>>>> c0627587cd72e4552018b49f2c73939afef2ea17
     load_best_model_at_end = False,
     metric_for_best_model= 'loss',
     greater_is_better = False,
