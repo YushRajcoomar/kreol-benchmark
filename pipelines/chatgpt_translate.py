@@ -12,7 +12,7 @@ cr_mono = [x for x in cr_mono['input'] if len(x.split(' ')) > 8]
 output_file_path = '/home/yush/kreol-benchmark/data_collection/data_extracted/raw/cr_en_dabretrain_parallel_30k.pkl'
 
 #API STUFF
-api_key = "sk-proj-uU6bq0IGaRxwUVWOKQT6T3BlbkFJ1ZOo8r6XR4jDlo0yDNkm"
+api_key = "<API KEY>"
 endpoint = "https://api.openai.com/v1/chat/completions"
 
 headers = {
